@@ -1,0 +1,92 @@
+/* 
+FUENTE
+font-family: 'Roboto', sans-serif;
+
+COLORS
+#212529;
+#707070;
+#F8F9FA o var(--light);
+#fff o var(--white);
+#28a745 o var(--success); */
+
+.card-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 20px;
+  color: #212529;
+  text-align: left;
+}
+
+.card-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+  color: #707070;
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+.card-text2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 13px;
+  color: #707070;
+  text-align: left;
+}
+
+.card-textcontainer {
+  display: flex;
+  gap: 10px;
+  justify-content: end;
+  align-items: center;
+}
+
+.card-text3 {
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+  color: #707070;
+  text-align: left;
+}
+
+.card-text4 {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: #28a745;
+  text-align: left;
+}
+
+.form {
+  background-color: #28a745;
+  font-family: "Roboto", sans-serif;
+  font-size: 21px;
+  color: #ffffff;
+  text-align: center;
+  /* width: 320px;
+  height: 241px; */
+}
+
+.form-control {
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+  color: #707070;
+  text-align: left;
+}
+
+.btn btn-light {
+  background-color: #f8f9fa;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  width: 112.71px;
+  height: 40px;
+}
+
+footer {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+  color: #707070;
+}
